@@ -6,7 +6,7 @@
 ## Prepare source
 
 ```sh
-  $ git clone https://github.com/phuongzlan/GetPointcloud.git
+  $ git clone https://github.com/nghoangphu/GetPointClound
 ```
 
 ## Build and Running
